@@ -48,6 +48,15 @@
   outline: none;
 }
 
+.typing-indicator {
+  padding: 10px 25px;
+  background-color: #f5f5f5;
+  font-style: italic;
+  color: #666666;
+  min-height: 20px;
+  font-size: 13px;
+}
+
 .send-message button {
   margin-left: 10px;
   background-color: #ffd700; /* Amarillo institucional */
